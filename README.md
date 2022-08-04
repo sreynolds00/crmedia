@@ -1,5 +1,5 @@
 # crmedia
-![crmedia logo](/src/assets/CR_LOGO_1.png)
+![crmedia logo](/src/assets/CR_Logo_1.png)
 
 ## directory guide
 
