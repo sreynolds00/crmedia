@@ -1,5 +1,5 @@
 # crmedia
-![crmedia logo](/src/assets/CR_Logo_1.png)
+<img src="src/assets/CR_Logo_1.png" style="height: 400px; width: 400px;">
 
 ## directory guide
 
